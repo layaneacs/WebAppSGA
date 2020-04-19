@@ -11,7 +11,7 @@ namespace SGA.ApplicationCore.Entity
             // contrutor
         }
 
-        public int Id_Cliente { get; set; }
+        public int ClienteId { get; set; }
         public string Nome { get; set; }
         public string CPF { get; set; }
     }
