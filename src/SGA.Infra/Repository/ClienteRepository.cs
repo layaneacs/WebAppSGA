@@ -15,7 +15,6 @@ namespace SGA.Infra.Repository
 
         }
 
-
         /*
 
         // sobrescrita do metodo.. apenas as que estão com o virtual.. 
